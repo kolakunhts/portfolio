@@ -1,7 +1,11 @@
 /*===== GOOGLE FONTS =====*/
 /* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap"); */
 /*====== GOOGLE FONTS ======*/
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Lao:wght@400;600;700&family=Poppins:wght@400;600;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Lao:wght@400;600;700&family=Poppins:wght@400;600;700&display=swap'); */
+/* ໃສ່ໃນ CSS ຫຼັກ */
+body {
+      font-family: 'Noto Sans Lao', sans-serif;
+}
 
 /*===== VARIABLES CSS =====*/
 :root {
